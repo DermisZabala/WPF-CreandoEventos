@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP PROBOOK\\OneDrive\\Desktop\\c#\\curso c#\\WPF\\CreandoEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95405C1E-17E6-4048-8253-B167B05E3600}|CreandoEventos.csproj|c:\\users\\hp probook\\onedrive\\desktop\\c#\\curso c#\\wpf\\creandoeventos\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95405C1E-17E6-4048-8253-B167B05E3600}|CreandoEventos.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95405C1E-17E6-4048-8253-B167B05E3600}|CreandoEventos.csproj|c:\\users\\hp probook\\onedrive\\desktop\\c#\\curso c#\\wpf\\creandoeventos\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95405C1E-17E6-4048-8253-B167B05E3600}|CreandoEventos.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP PROBOOK\\OneDrive\\Desktop\\c#\\curso c#\\WPF\\CreandoEventos\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HP PROBOOK\\OneDrive\\Desktop\\c#\\curso c#\\WPF\\CreandoEventos\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T18:04:05.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP PROBOOK\\OneDrive\\Desktop\\c#\\curso c#\\WPF\\CreandoEventos\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP PROBOOK\\OneDrive\\Desktop\\c#\\curso c#\\WPF\\CreandoEventos\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T18:03:59.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
